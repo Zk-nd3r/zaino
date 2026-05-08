@@ -48,7 +48,7 @@ zcash_transparent = "0.6.3"
 zcash_client_backend = "0.21.0"
 
 # Zebra
-zebra-chain = "6.0.2"
+zebra-chain = "7.0.0"
 zebra-state = "5.0.0"
 zebra-rpc = "6.0.2"
 
