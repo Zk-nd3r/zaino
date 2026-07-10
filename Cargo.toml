@@ -43,7 +43,7 @@ incrementalmerkletree = "0.8"
 zcash_address = "0.10"
 zcash_keys = "0.12"
 zcash_protocol = "0.7.2"
-zcash_primitives = "0.26.0"
+zcash_primitives = "0.28.0"
 zcash_transparent = "0.6.3"
 zcash_client_backend = "0.21.0"
 
